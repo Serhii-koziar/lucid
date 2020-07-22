@@ -325,6 +325,8 @@ hr{
 }
 .Pricings_Plans{
 	background-image: url(../img/section_bg.jpg);
+	-webkit-background-size: cover;
+	background-size: cover;
 	background-repeat: no-repeat;
 	background-position:  center;
 }
