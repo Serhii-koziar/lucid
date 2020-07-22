@@ -19,6 +19,8 @@ body{
 .header{
 
 	background-image: url(../img/header_bg.png);
+	-webkit-background-size: cover;
+	background-size: cover;
 	background-repeat: no-repeat;
 }
 .header_top_content{
@@ -162,6 +164,8 @@ body{
 }
 .phone_img{
 	background-image: url(../img/header_img.png);
+	-webkit-background-size: cover;
+	background-size: cover;
 	height: 515px;
 	background-repeat: no-repeat;
 	float: right;
